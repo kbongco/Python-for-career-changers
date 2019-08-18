@@ -1,2 +1,2 @@
-# Python-for-career-changers
-A little guide I made to teach python for those who wanna change fields like me!
+# Python for the Programming Challenged
+A little guide I made to teach Python basics! 
